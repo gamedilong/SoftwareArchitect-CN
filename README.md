@@ -4,7 +4,7 @@
 
 [原文地址](https://github.com/justinamiller/SoftwareArchitect)
 
-**如果查看原文大家发现翻译问题，翻译反馈PR。如果能够帮到大家欢迎star**
+**如果查看原文大家发现翻译问题，可以随时反馈PR。如果能够帮到大家也欢迎star**
 
 ## 内容
 - [什么是软件架构](#什么是软件架构)
